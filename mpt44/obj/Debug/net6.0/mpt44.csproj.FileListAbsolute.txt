@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\mpt44\mpt44\bin\Debug\net6.0\mpt44.exe
+C:\Users\User\Desktop\mpt44\mpt44\bin\Debug\net6.0\mpt44.deps.json
+C:\Users\User\Desktop\mpt44\mpt44\bin\Debug\net6.0\mpt44.runtimeconfig.json
+C:\Users\User\Desktop\mpt44\mpt44\bin\Debug\net6.0\mpt44.dll
+C:\Users\User\Desktop\mpt44\mpt44\bin\Debug\net6.0\mpt44.pdb
+C:\Users\User\Desktop\mpt44\mpt44\obj\Debug\net6.0\mpt44.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\mpt44\mpt44\obj\Debug\net6.0\mpt44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\mpt44\mpt44\obj\Debug\net6.0\mpt44.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\mpt44\mpt44\obj\Debug\net6.0\mpt44.AssemblyInfo.cs
+C:\Users\User\Desktop\mpt44\mpt44\obj\Debug\net6.0\mpt44.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\mpt44\mpt44\obj\Debug\net6.0\mpt44.dll
+C:\Users\User\Desktop\mpt44\mpt44\obj\Debug\net6.0\refint\mpt44.dll
+C:\Users\User\Desktop\mpt44\mpt44\obj\Debug\net6.0\mpt44.pdb
+C:\Users\User\Desktop\mpt44\mpt44\obj\Debug\net6.0\mpt44.genruntimeconfig.cache
+C:\Users\User\Desktop\mpt44\mpt44\obj\Debug\net6.0\ref\mpt44.dll
